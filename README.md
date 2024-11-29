@@ -28,3 +28,5 @@
 	- 한 명의 팀원은 multiply(곱하기), divide(나누기) 기능을 각각 feature branch를 통해 메인 Repository에 Pull Request를 생성한다.
 	- 팀장은 지수, 제곱근 기능을 각각 feature branch를 통해 Merge 한다.
 	- Git Bash에 입력한 명령어 화면을 캡쳐하여 제출.
+
+## 보고서 마지막엔 작업한 팀장과 팀원의 깃허브 주소를 제출.
