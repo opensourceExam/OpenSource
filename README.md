@@ -19,11 +19,12 @@
 - 과제 Repository를 팀장이 fork하고 팀원은 팀장의 Repository를 fork한다.
 	- fork 된 화면 사진 제출.
 
-- 현재 계산기 프로그램에는 숫자를 입력 받는 기능과 feature/add, feature/substract branch가  존재한다. fork 받은 Repository에서 add, substract 기능을 Merge한다.
-  	-  Git Bash에 입력한 명령어 화면을 캡쳐하여 제출.
+- 현재 계산기 프로그램에는 숫자를 입력 받는 기능만 존재한다. fork 받은 Repository에서 add, substract 기능을 추가한다.
+	- 팀장은 feature/add, feature/substract branch를 추가하여, main Repository에 merge한다.
+  	- Git Bash에 입력한 명령어 화면을 캡쳐하여 제출.
 	- Commit, Pull Request의 메시지는 Commit 메시지의 일곱 가지 규칙에 맞게 작성한다.
 
 - 다음 조건에 맞는 기능을 추가하여, branch를 통해 Pull Request와 Merge를 수행한다.
-	- 한 명의 팀원은 곱하기, 나누기 기능을 각각 feature branch를 통해 메인 Repository에 Pull Request를 생성한다
+	- 한 명의 팀원은 multiply(곱하기), divide(나누기) 기능을 각각 feature branch를 통해 메인 Repository에 Pull Request를 생성한다.
 	- 팀장은 지수, 제곱근 기능을 각각 feature branch를 통해 Merge 한다.
 	- Git Bash에 입력한 명령어 화면을 캡쳐하여 제출.
