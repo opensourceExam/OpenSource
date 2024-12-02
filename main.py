@@ -17,11 +17,11 @@ def main():
         if choice == "quit":
             print("종료")
             break
-        elif choice in ["0", "1", "2", "3"]:
+        elif choice in ["1", "2", "3", "4"]:
             x = float(input("첫 번째 숫자 입력: "))
             y = float(input("두 번째 숫자 입력: "))
-            if choice == 0:
-                print("결과:")
+            if choice == 1:
+                print("결과:", x + y)
             elif choice == 1:
                 print("결과:")
             elif choice == 2:
