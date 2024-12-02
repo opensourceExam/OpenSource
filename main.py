@@ -12,6 +12,7 @@ def main():
         print("3. 곱하기")
         print("4. 나누기")
         print("5. 지수 계산 (x^y)")
+        print("6. 제곱근 계산 (√x)")
 
         choice = input("번호 : ")
 
