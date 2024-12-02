@@ -11,6 +11,7 @@ def main():
         print("2. 빼기")
         print("3. 곱하기")
         print("4. 나누기")
+        print("5. 지수 계산 (x^y)")
 
         choice = input("번호 : ")
 
@@ -28,6 +29,8 @@ def main():
                 print("결과:", x * y)
             elif choice == 4:
                 print("결과:", x / y)
+            elif choice == 5:
+                print("결과:", x ** y)
         else:
             print("잘못된 입력.")
 
