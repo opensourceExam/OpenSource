@@ -23,7 +23,7 @@ def main():
             if choice == 1:
                 print(f"결과: {x} + {y} = {x + y}")
             elif choice == 2:
-                print("결과:")
+                print(f"결과: {x} - {y} = {x - y}")
             elif choice == 3:
                 print("결과:")
             elif choice == 4:
