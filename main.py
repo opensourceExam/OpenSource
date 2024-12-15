@@ -7,10 +7,10 @@ def main():
         print("\n사용할 기능을 선택하세요.")
         print("사용할 기능을 선택하세요./종료하려면 quit 입력하세요.")
         
-        print("1. 더하기")
-        print("2. 빼기")
-        print("3. 곱하기")
-        print("4. 나누기")
+        print("0. 더하기")
+        print("1. 빼기")
+        print("2. 곱하기")
+        print("3. 나누기")
 
         choice = input("번호 : ")
 
@@ -27,7 +27,7 @@ def main():
             elif choice == 2:
                 print("결과:")
             elif choice == 3:
-                print("결과:")
+                print("결과:", x / y)
         else:
             print("잘못된 입력.")
 
